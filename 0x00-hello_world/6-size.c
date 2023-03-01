@@ -3,9 +3,9 @@
  * main - A program that prints the size of various computer types
  * Return 0 (Success)
  */
+/* This program prints the sizes of different data types */
 int main(void)
 {
-/* This program prints the sizes of different data types */
 char a;
 int b;
 long int c;
